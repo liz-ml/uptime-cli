@@ -1,0 +1,11 @@
+timeout_seconds: 5
+interval_seconds: 10
+
+targets:
+  - name: "Teste"
+    url: "https://apip.cc/api-json/8.8.8.8"
+    expected_status: 200
+
+  - name: "Teste 2"
+    url: "https://planomy.net/tax-data/2026.json"
+    expected_status: 200

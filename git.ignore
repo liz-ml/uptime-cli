@@ -1,0 +1,10 @@
+# Executáveis compilados do Go
+*.exe
+*.exe integrity
+*.exe.bin
+uptime-cli
+main
+
+# IDEs e Editores
+.vscode/
+.idea/
